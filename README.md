@@ -1,2 +1,5 @@
 # hello-world
-Example repository.
+
+Hello there!
+
+This is my first project on GitHub. How exciting!
